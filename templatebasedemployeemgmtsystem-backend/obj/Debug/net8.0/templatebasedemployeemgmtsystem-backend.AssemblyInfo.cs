@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("templatebasedemployeemgmtsystem-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+872fcb9c41531d751cd98a38a896704983cb4d2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5410651bfd2042a105d8178e9c8000dca5f79a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("templatebasedemployeemgmtsystem-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("templatebasedemployeemgmtsystem-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
