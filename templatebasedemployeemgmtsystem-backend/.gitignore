@@ -1,0 +1,19 @@
+# ASP.NET Core
+wwwroot/
+bin/
+obj/
+
+# User-specific files
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstategits
+*.dll
+*.pdb
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
