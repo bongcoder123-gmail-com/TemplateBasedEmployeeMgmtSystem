@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sudiptakundu1/Projects/Personal/TemplateBasedEmployeeMgmtSystem/templatebasedemployeemgmtsystem-backend/templatebasedemployeemgmtsystem-backend.csproj": {}
+  },
+  "projects": {
+    "/Users/sudiptakundu1/Projects/Personal/TemplateBasedEmployeeMgmtSystem/templatebasedemployeemgmtsystem-backend/templatebasedemployeemgmtsystem-backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sudiptakundu1/Projects/Personal/TemplateBasedEmployeeMgmtSystem/templatebasedemployeemgmtsystem-backend/templatebasedemployeemgmtsystem-backend.csproj",
+        "projectName": "templatebasedemployeemgmtsystem-backend",
+        "projectPath": "/Users/sudiptakundu1/Projects/Personal/TemplateBasedEmployeeMgmtSystem/templatebasedemployeemgmtsystem-backend/templatebasedemployeemgmtsystem-backend.csproj",
+        "packagesPath": "/Users/sudiptakundu1/.nuget/packages/",
+        "outputPath": "/Users/sudiptakundu1/Projects/Personal/TemplateBasedEmployeeMgmtSystem/templatebasedemployeemgmtsystem-backend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sudiptakundu1/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.optimizely.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
